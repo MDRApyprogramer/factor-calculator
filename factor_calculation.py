@@ -1,7 +1,6 @@
 #imports
 from rich.console import Console
 from rich.prompt import Prompt
-from tabulate import tabulate
 
 console = Console()
 prompt = Prompt()
