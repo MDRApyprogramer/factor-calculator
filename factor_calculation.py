@@ -10,7 +10,7 @@ console.rule('[bold blue]wellcome to program')
 
 add_list = {} # add list the valu e for add to class
 
-class Callculation_operation:
+class CallculationOperation:
     '''give a dict , for key value give product name'''
     def __init__(self, *args : dict):
         self.args = {}
